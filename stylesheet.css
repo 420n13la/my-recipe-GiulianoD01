@@ -1,0 +1,31 @@
+body {
+  background-color:wheat
+}
+h1{
+  text-align:center
+    
+}
+h2{
+  text-align:center;
+  color:red;
+}
+p {
+  text-align:center;
+  border:2px solid black;
+  padding:8px;
+  display:block;}
+a {
+  float:right;
+  background-color:white;
+  padding:25px;
+  color:black;
+  }
+h3{
+  text-align:right;
+  color:blue;
+}
+img{
+  height:330px;
+  width:450px;
+  float:right;
+}
